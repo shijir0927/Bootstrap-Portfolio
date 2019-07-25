@@ -1,6 +1,4 @@
-header {
-    width: 100%;
-}
+/* index CSS */
 
 #brian {
     background-color: #4aaaa5;
@@ -19,6 +17,7 @@ header {
 
 .container {
     background-color: white;
+    margin: 0 auto;
 }
 
 footer {
@@ -37,6 +36,9 @@ footer {
     text-align: center;
 }
 
+
+/* Portfolio CSS */
+
 #portfolio-box {
     background-image: url("https://www.climate-lab-book.ac.uk/files/2015/02/rainbow1.png");
     margin: 20px 20px 20px 10px;
@@ -50,6 +52,9 @@ footer {
     margin-top: 130px;
     text-align: center;
 }
+
+
+/* Contact CSS */
 
 form {
     margin: 10px 0;

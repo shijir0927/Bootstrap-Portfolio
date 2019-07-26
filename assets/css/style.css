@@ -1,28 +1,39 @@
 /* index CSS */
 
+
+/* .header-row {
+    height: 70px;
+} */
+
 #brian {
     background-color: #4aaaa5;
     color: white;
     height: 100%;
+    text-align: center;
 }
 
 #about-me {
     color: #4aaaa5;
 }
 
+#links {
+    align-content: center;
+}
+
 .wrapper {
-    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/black-abstract-tech-triangles-motion-background-video-animation-ultra-hd-4k-3840x2160_rzlankbf__F0000.png");
-    padding: 60px 0;
+    background-image: url("/assets/images/blue-turquoise-gradient-linear-1920x1080-c2-191970-2ff0a8-a-165-f-14.jpg");
+    background-color: #d9dddc;
+    padding: 40px 0;
 }
 
 .container {
-    background-color: white;
+    background-color: #ffffff;
     margin: 0 auto;
 }
 
 footer {
     width: 100%;
-    height: 50px;
+    height: 70px;
     background-color: #666666;
 }
 
@@ -39,18 +50,20 @@ footer {
 
 /* Portfolio CSS */
 
-#portfolio-box {
-    background-image: url("https://www.climate-lab-book.ac.uk/files/2015/02/rainbow1.png");
-    margin: 20px 20px 20px 10px;
+.image-1 {
+    background-image: url("./assets/images/word-guess-game.png");
 }
 
 .game-name {
     width: 100%;
-    height: 30px;
+    height: 50px;
     background-color: #4aaaa5;
     color: #ffffff;
-    margin-top: 130px;
     text-align: center;
+}
+
+.white {
+    padding: 20px;
 }
 
 
